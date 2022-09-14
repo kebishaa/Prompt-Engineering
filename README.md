@@ -44,8 +44,5 @@ outputs, cost, performance, and other relevant artifacts
 ## Project Structure
 - data: Contains the dataset
 - scripts: Contains script codes
-- logs: contains log files
-- tests: Unit test files
-- .github/workflows- Contains yml configration file of github acyion
-- .dvc: Data versioning related configration and files
-- .travis.yml: Contains config file for travis ci/cd 
+- notebooks: contains Exploratory data analysis
+
