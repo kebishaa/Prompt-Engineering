@@ -1,3 +1,4 @@
+!(https://www.sigmoid.com/wp-content/uploads/2020/08/sigmoid-blog-gpt-800x281.jpg)
 ## Overview
 A client has a system that collects news artifacts from web pages, tweets, facebook
 posts, etc. The client is interested in scoring a given new artifact against a topic. The
