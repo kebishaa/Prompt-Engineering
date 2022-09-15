@@ -23,7 +23,7 @@ world is going through a revolution in art (DALL-E, MidJourney, Imagine, etc.), 
 revolution.
 
 ## Data
-## The colums of the data are
+## The columns of the data are
 
 - **Domain** - the base URL or a reference to the source these item comes from 
 - **Title** - title of the item - the content of the item
