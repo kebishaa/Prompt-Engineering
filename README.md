@@ -35,7 +35,7 @@ revolution.
 - **Analyst_Rank** - score as rank
 - **Reference_Final_Score** - Not relevant for now - it is a transformed quantity
 ## The tasks
-1 Understand the algorithms and techniques that goes into building large language models 
+#1 Understand the algorithms and techniques that goes into building large language models 
 2 Design a pipeline that takes a news item (e.g. title +  description + body) or a job description and returns a score for the news item and list of entities
 3 Write a flask or fastapi backend. The API should have at least two endpoints 
          /bnewscore - for scoring  breaking news that may lead to public unrest
