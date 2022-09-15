@@ -26,15 +26,15 @@ revolution.
 
 The following is the description of the components of the [Client-data]
 
-Domain - the base URL or a reference to the source these item comes from
-Title - title of the item - the content of the item
-Description - the content of the item
-Body - the content of the item
-Link - URL to the item source (it may not functional anymore sometime)
-Timestamp - timestamp that this item was collected at
-Analyst_Average_Score - target variable - the score to be estimated
-Analyst_Rank - score as rank
-Reference_Final_Score - Not relevant for now - it is a transformed quantity
+- **Domain** - the base URL or a reference to the source these item comes from
+- **Title** - title of the item - the content of the item
+- **Description** - the content of the item
+- **Body** - the content of the item
+- **Link** - URL to the item source (it may not functional anymore sometime)
+- **Timestamp** - timestamp that this item was collected at
+- **Analyst_Average_Score - target variable** - the score to be estimated
+- **Analyst_Rank** - score as rank
+- **Reference_Final_Score** - Not relevant for now - it is a transformed quantity
 
 
 
