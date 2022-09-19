@@ -22,4 +22,23 @@ world is going through a revolution in art (DALL-E, MidJourney, Imagine, etc.), 
 (AlphaFold), medicine, and other key areas, and this approach is playing a role in this
 revolution.
 
+## Data
+## The columns of the data are
 
+- **Domain** - the base URL or a reference to the source these item comes from 
+- **Title** - title of the item - the content of the item
+- **Description** - the content of the item
+- **Body** - the content of the item
+- **Link**- URL to the item source (it may not functional anymore sometime)
+- **Timestamp** - timestamp that this item was collected at
+- **Analyst_Average_Score**-  target variable - the score to be estimated 
+- **Analyst_Rank** - score as rank
+- **Reference_Final_Score** - Not relevant for now - it is a transformed quantity
+## The tasks
+1 Understand the algorithms and techniques that goes into building large language models.
+
+2 Design a pipeline that takes a news item (e.g. title +  description + body) or a job description and returns a score for the news item and list of entities.
+
+3 Write a flask or fastapi backend. The API should have at least two endpoints.
+         /bnewscore - for scoring  breaking news that may lead to public unrest
+         /jdentities - for extracting entities from job description
